@@ -1,0 +1,16 @@
+.div-main {
+  height: 25vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: rgb(228, 217, 217);
+  border: solid 3px black;
+  border-bottom: solid 6px black;
+  margin: 1rem;
+  box-shadow: 5px 5px gray;
+}
+
+button {
+  box-shadow: 3px 3px black;
+}
